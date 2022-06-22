@@ -21,5 +21,13 @@
 	<img align="center" alt="Matheus-nodejs" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 	<img align="center" alt="Matheus-vscode" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
 	<img align="center" alt="Matheus-vscode" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
-    <img align="right" alt="Matheus-pic" height="150" width="150" style="border-radius:50px;" src= " ![download20220603112035](https://user-images.githubusercontent.com/103668474/175108597-b20b451c-9721-4eec-8a61-1ead8f6ee744.png) " >
+	<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/image_maker/11534/complete?cd=oMLL1oniKL">
 </div>
+  
+  ##
+	
+<div>
+	<a href="https://instagram.com/faarinha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+	<a href = "mailto:matheus15farinha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
+	<a href="https://www.linkedin.com/in/matheus-farinha-23a236137/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
