@@ -1,9 +1,10 @@
 ##  Matheus Farinha de Almeida
 
-- 🔭 I’m currently estudando fundamentos da programação.
-- 🌱 I’m currently learning  HTML5, CSS3.
-- 👯  Estou procurando colaborar em back-end.
-- 🤔 I’m looking for help with  qualquer idéia  que me ajuda a desenvolver boas práticas.
+- 🔭 Atualmente estou estudando os fundamentos da programação.
+- 🌱 Atualmente estou aprendendo HTML5, CSS3.
+- 👯 Estou trabalhando em back-end.
+- 🤔 Procuro ajuda com qualquer ideia que me ajude a desenvolver boas práticas.
+
 
 <div align="center">
   <a href="https://github.com/Matheus-Farinha">
