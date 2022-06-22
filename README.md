@@ -20,7 +20,6 @@
 	<img align="center" alt="Matheus-javascript" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 	<img align="center" alt="Matheus-nodejs" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 	<img align="center" alt="Matheus-vscode" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
-	<img align="center" alt="Matheus-vscode" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />               
+	<img align="center" alt="Matheus-vscode" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
+    <img align="right" alt="Matheus-pic" height="150" width="150" style="border-radius:50px;" src= " ![download20220603112035](https://user-images.githubusercontent.com/103668474/175108597-b20b451c-9721-4eec-8a61-1ead8f6ee744.png) " >
 </div>
-  
-  ##
