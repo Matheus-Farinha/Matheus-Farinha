@@ -22,7 +22,7 @@
 	<img align="center" alt="Matheus-nodejs" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 	<img align="center" alt="Matheus-vscode" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
 	<img align="center" alt="Matheus-vscode" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
-	<img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://picrew.me/image_maker/11534">
+	<img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://discordapp.com/channels/@me/995415692687970395/995417488680570963">
 </div>
   
   ##
