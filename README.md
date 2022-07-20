@@ -6,7 +6,7 @@
 - 🤔 Procuro ajuda com qualquer ideia que me ajude a desenvolver boas práticas.
 
 
-<div align-items="center">
+<div align="center">
   <a href="https://github.com/Matheus-Farinha">
   <div>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Matheus-Farinha&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
