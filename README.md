@@ -9,8 +9,8 @@
 <div align="center">
   <a href="https://github.com/Matheus-Farinha">
   <div>
-  <img height="10em"  src="https://github-readme-stats.vercel.app/api?username=Matheus-Farinha&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Farinha&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=Matheus-Farinha&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Farinha&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 <div style="display: inline_block"><br>
     <href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
