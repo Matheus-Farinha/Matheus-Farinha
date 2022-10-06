@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou estudando os fundamentos da programação.
 - 🌱 Atualmente estou aprendendo JS.
 - 👯 Buscando me desenvolver em back-end.
-- 🤔 Procuro ajuda com qualquer ideia que me ajude a desenvolver boas práticas.
+- 🤔 Procuro ajuda com qualquer ideia para desenvolver boas práticas.
 
 
 <div align="center">
