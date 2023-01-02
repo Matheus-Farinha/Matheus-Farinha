@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou estudando os fundamentos da programação.
 - 🌱 Atualmente estou aprendendo JAVA.
-- 👯 Buscando um estágio em back-end para desenvolver boas práticas e firmar conhecimentos práticos.
+- 👯 Buscando um estágio em back-end para desenvolver boas práticas e adquirir mais conhecimento.
 
 
 <div align="center">
