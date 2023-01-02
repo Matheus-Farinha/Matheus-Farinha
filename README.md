@@ -1,9 +1,8 @@
 ##  Matheus Farinha de Almeida
 
 - 🔭 Atualmente estou estudando os fundamentos da programação.
-- 🌱 Atualmente estou aprendendo JS.
-- 👯 Buscando me desenvolver em back-end.
-- 🤔 Procuro ajuda com qualquer ideia para desenvolver boas práticas.
+- 🌱 Atualmente estou aprendendo JAVA.
+- 👯 Buscando um estágio em back-end para desenvolver boas práticas e firmar conhecimentos práticos.
 
 
 <div align="center">
